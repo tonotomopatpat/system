@@ -24,5 +24,10 @@ namespace rentalManagement
         {
             InitializeComponent();
         }
+
+        private void asd(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

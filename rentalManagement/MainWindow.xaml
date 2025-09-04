@@ -7,6 +7,8 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <Button x:Name="BITCH" Content="did it change?" HorizontalAlignment="Center" Margin="0,25,0,0" VerticalAlignment="Top" Height="172" Width="598" Click="asd"/>
+        <Button x:Name="BITCH_Copy" Content="this is for function!?" HorizontalAlignment="Center" Margin="0,231,0,0" VerticalAlignment="Top" Height="172" Width="598" Click="asd"/>
+
     </Grid>
 </Window>
